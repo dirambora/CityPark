@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_img">
+        <bitmap android:src="@drawable/carpark" />
+    </item>
+    <item android:id="@+id/background">
+        <shape android:shape="rectangle">
+            <solid android:color="#c8795548" />
+        </shape>
+    </item>
+</layer-list>
